@@ -17,5 +17,5 @@ These scripts are designed to help explore and derive meaningful insights from s
  📂 Project Structure  
  `datasets/` – Sample datasets used for analysis  
  `queries/` – SQL queries implementing various analytical techniques  
--`notebooks/` (if applicable) – Additional analysis using SQL-based tools  
+ `notebooks/` (if applicable) – Additional analysis using SQL-based tools  
 
